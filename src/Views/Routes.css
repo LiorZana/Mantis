@@ -1,0 +1,28 @@
+  
+  .page {
+  }
+
+  /* .page-enter {
+    transition-duration: 1s;
+    transition-property: opacity;
+    color: red;
+    opacity: 0;
+  }
+
+  .page-enter-active {
+    transition-duration: 1s;
+    transition-property: opacity;
+    opacity: 1;
+  } */
+
+  .page-exit {
+    transition-duration: 1s;
+    transition-property: opacity;
+    opacity: 0;
+  }
+
+  .page-exit-active {
+    transition-duration: 1s;
+    transition-property: opacity;
+    opacity: 1;
+  }
